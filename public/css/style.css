@@ -1,10 +1,11 @@
 #container {
-    width: 95vh;
+    width: 140vh;
     height: 60vh;
     margin: 0 auto;
     display:grid;
-    grid-template-columns: 200px;
+    grid-template-columns: 50% 25% 25%;
     grid-template-rows: ;
+    place-items: stretch;
 }
 img {
     max-width: 100%;

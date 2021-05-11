@@ -12,7 +12,7 @@
      
         <div id = "container">
             <div class="item one">
-                <img src = "/images/placeholder.png">
+                <img src = "/images/LAMB-Brand ID-Westcott-1.png">
             </div>
             <div class="item two">
                 <img src = "/images/placeholder.png">
