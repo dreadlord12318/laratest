@@ -14,9 +14,27 @@
     
 }
 
-@media (max-width: 1440px){
+@media only screen and (max-width: 1440px) and ( min-height:757px){
     #container {
-        width: 159vh;
+        width: 189vh;
+        height: 60vh;
+        display:grid;
+        grid-template-columns: 
+        [col-start] 1fr
+        [col-2] 1fr
+        [col-3] 1fr
+        [col-4] 1fr
+        [col-5] 1fr
+        [col-end];
+        grid-template-rows :10em 10em 10em 10em;
+       
+        
+    }
+}
+
+@media only screen and (max-width: 1440px) and ( min-height:900px){
+    #container {
+        width: 158vh;
         height: 60vh;
         display:grid;
         grid-template-columns: 
