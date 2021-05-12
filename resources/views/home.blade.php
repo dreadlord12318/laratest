@@ -43,9 +43,9 @@
 <div class = "container">
 <div class="row " >
 <div class = "col-md-12 d-flex justify-content-center">
-<h2>Coming Soon</h2>
-<h3>Designed in the USA by Lambent</h3>
-<h3>Built in the PHILIPPINES by Lumikha</h3>
+<h2>Westcott Dyson - Coming Soon</h2>
+<h3>Design in the United States by <a href = "https://lambent.co/" target="_blank">Lambent</a></h3>
+<h3>Handmade in the Philippines by <a href = "https://lumikha.co/" target="_blank">Lumikha</a></h3>
 </div>
 </div>
 </div>
