@@ -13,6 +13,24 @@
    
     
 }
+
+@media (max-width: 1440px){
+    #container {
+        width: 159vh;
+        height: 60vh;
+        display:grid;
+        grid-template-columns: 
+        [col-start] 1fr
+        [col-2] 1fr
+        [col-3] 1fr
+        [col-4] 1fr
+        [col-5] 1fr
+        [col-end];
+        grid-template-rows :10em 10em 10em 10em;
+       
+        
+    }
+}
 img {
     max-width: 100%;
     max-height: 100%;
@@ -58,4 +76,13 @@ img {
 .nine {
     grid-column-start: 3;
     grid-column-end: 5;
+}
+
+
+/* Bottome Text */
+.container {
+    margin-top: 12em;
+}
+.col-md-12.d-flex.justify-content-center {
+    text-align: center;
 }

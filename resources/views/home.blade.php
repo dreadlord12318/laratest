@@ -40,7 +40,13 @@
             </div>
 
         </div>
-
-
-
+<div class = "container">
+<div class="row " >
+<div class = "col-md-12 d-flex justify-content-center">
+<h2>Coming Soon</h2>
+<h3>Designed in the USA by Lambent</h3>
+<h3>Built in the PHILIPPINES by Lumikha</h3>
+</div>
+</div>
+</div>
     </body>
